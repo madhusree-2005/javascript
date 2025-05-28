@@ -32,3 +32,12 @@ making desktop apps (electron,tauri)
 building browser extensions
 working with real-time apps(chats,live updates,websockets)
 even game development ,IOT projects,and ml experiments
+
+
+what is ECMA script?
+it is std on which javascript is based .It was created to ensure that diffferent documents on javascript are actually talking about the same language 
+javascript and ECMA scripr can almost be used interchangably . javascript is very liberal in wt it allows 
+
+how to execute javascript?
+javascript can be created right inside one browser you can open the javascript console and start writig javascript there
+another way to execute the javascript is a runime like node.js 
